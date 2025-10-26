@@ -15,4 +15,4 @@
 <img width="1224" height="861" alt="螢幕擷取畫面 2025-10-26 150003" src="https://github.com/user-attachments/assets/bdcc2ddd-4d4d-41cb-9fc9-58a2c973b971" />
 
 ### 4) Now, Just One Click Away
-https://youtu.be/EBg2MD4snbQ
+[Pls click this link to see the effect:https://youtu.be/EBg2MD4snbQ](https://youtu.be/EBg2MD4snbQ)
