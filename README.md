@@ -1,6 +1,5 @@
 ### 1) Purpose & Benefits
-
-<img width="1596" height="616" alt="螢幕擷取畫面 2025-10-26 145636" src="https://github.com/user-attachments/assets/c8d3d34c-ebb6-490e-b600-0f1ef839a1d0" />
+<img width="1799" height="812" alt="image" src="https://github.com/user-attachments/assets/35ead45d-bb7a-4b96-aeed-7c7b28d91720" />
 
 ### 2) As-Is
 <img width="801" height="1060" alt="image" src="https://github.com/user-attachments/assets/4d6c4e98-5c44-43ac-948e-1910e23acb4c" />
